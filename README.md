@@ -1,6 +1,6 @@
-### Termos de uso
+# PROJETO RECIPIES
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+Este projeto foi desenvolvido durante o curso **Desenvolvedor Web Full-stack** na <a href="https://www.betrybe.com/?utm_source=trybe.com.br">Trybe</a>
 
 ---
 
